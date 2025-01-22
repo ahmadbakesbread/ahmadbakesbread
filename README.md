@@ -2,9 +2,9 @@
 
 
 current status:
-- `🧠💻 trying to build a convolutional neural network`
+- `🧠💻 blockchain + ai research`
 - `📚🥋 watching gordon ryan's seated guard instructional`
-- `😴🛌 trying my best to improve my sleeping schedule`
+- `😴🛌 trying improve my sleep schedule`
 
 <div align="center">
     
