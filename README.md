@@ -4,7 +4,7 @@
 current status:
 - `🧠💻 blockchain + ai research`
 - `📚🥋 watching gordon ryan's seated guard instructional`
-- `😴🛌 trying improve my sleep schedule`
+- `😴🛌 trying to wake up at 6 am lol.`
 
 <div align="center">
     
