@@ -2,9 +2,9 @@
 
 
 current status:
-- `🧠💻 blockchain + ai research`
-- `📚🥋 watching gordon ryan's seated guard instructional`
-- `😴🛌 trying to wake up at 6 am lol.`
+- `🧠💻 data engineering @ avanade`
+- `📚🥋 watching jason rau's split squat passing instructional`
+- `😴🛌 trying to train twice daily lol.`
 
 <div align="center">
     
